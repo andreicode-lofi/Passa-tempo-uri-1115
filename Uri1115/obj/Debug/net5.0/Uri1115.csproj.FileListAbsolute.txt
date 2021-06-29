@@ -1,0 +1,16 @@
+C:\Users\andre\source\repos\Uri1115\Uri1115\bin\Debug\net5.0\Uri1115.exe
+C:\Users\andre\source\repos\Uri1115\Uri1115\bin\Debug\net5.0\Uri1115.deps.json
+C:\Users\andre\source\repos\Uri1115\Uri1115\bin\Debug\net5.0\Uri1115.runtimeconfig.json
+C:\Users\andre\source\repos\Uri1115\Uri1115\bin\Debug\net5.0\Uri1115.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Uri1115\Uri1115\bin\Debug\net5.0\Uri1115.dll
+C:\Users\andre\source\repos\Uri1115\Uri1115\bin\Debug\net5.0\ref\Uri1115.dll
+C:\Users\andre\source\repos\Uri1115\Uri1115\bin\Debug\net5.0\Uri1115.pdb
+C:\Users\andre\source\repos\Uri1115\Uri1115\obj\Debug\net5.0\Uri1115.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Uri1115\Uri1115\obj\Debug\net5.0\Uri1115.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Uri1115\Uri1115\obj\Debug\net5.0\Uri1115.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Uri1115\Uri1115\obj\Debug\net5.0\Uri1115.AssemblyInfo.cs
+C:\Users\andre\source\repos\Uri1115\Uri1115\obj\Debug\net5.0\Uri1115.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Uri1115\Uri1115\obj\Debug\net5.0\Uri1115.dll
+C:\Users\andre\source\repos\Uri1115\Uri1115\obj\Debug\net5.0\ref\Uri1115.dll
+C:\Users\andre\source\repos\Uri1115\Uri1115\obj\Debug\net5.0\Uri1115.pdb
+C:\Users\andre\source\repos\Uri1115\Uri1115\obj\Debug\net5.0\Uri1115.genruntimeconfig.cache
